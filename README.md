@@ -78,16 +78,6 @@ GitHub
 
 Esta automação cobre 56 cenários de teste da API ServeRest, validando tanto os cenários esperados conforme o contrato, schema, quanto aos cenários negativos, garantindo que a API se comporte corretamente em situações inesperadas. Os testes fazem uso de variáveis de ambiente, o que permite executá-los sem necessidade de alterar informações nos requests, mesmo com múltiplos cenários distintos. Além disso, realizam validações completas dos responses, assegurando que os retornos da API estejam corretos, com os campos preenchidos e os status codes alinhados ao contrato. A automação inclui também três cenários que apresentam status failed, evidenciando divergências entre o schema definido no contrato e o retorno real da aplicação.
 
-
 *Autor*
 - Teste automatizado integrado à pipeline: Carlos Castro
 - Documentação: Carlos Castro
-
-
-
-
-
-Um desenvolvedor - Trabalho Inicial - umdesenvolvedor
-Fulano De Tal - Documentação - fulanodetal
-Você também pode ver a lista de todos os colaboradores que participaram deste projeto.
-
