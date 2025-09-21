@@ -57,15 +57,15 @@ GitHub
        - No repositório, clique em "Actions" e depois em "New workflow".
        - Configure o workflow conforme desejado (o GitHub oferece opções de configuração simples ou padrão).
 3. Configurar arquivo YAML para relatórios
-       - Ajuste o arquivo yml de acordo com a ferramenta de relatório escolhida (por exemplo, Newman + Allure Report).
+       - Ajuste o arquivo .yml de acordo com a ferramenta de relatório escolhida (por exemplo, Newman + Allure Report).
 4. Executar a automação
-       - Com o workflow configurado e o yml pronto, o ambiente do GitHub estará preparado para rodar a automação e gerar os relatórios automaticamente.
+       - Com o workflow configurado e o .yml pronto, o ambiente do GitHub estará preparado para rodar a automação e gerar os relatórios automaticamente.
 
 *Executando a automação*
 
 1.	Upload dos arquivos do Postman
 	   - Com o ambiente configurado, faça o upload dos arquivos .json gerados pelo Postman.
-	   - Verifique se os nomes dos arquivos correspondem aos nomes definidos no arquivo yml do workflow.
+	   - Verifique se os nomes dos arquivos correspondem aos nomes definidos no arquivo .yml do workflow.
 2.	Executar o workflow
        - Clique em "Actions" no repositório do GitHub.
        - Selecione o workflow previamente criado.
