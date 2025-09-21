@@ -24,7 +24,7 @@ jobs:
 
       - name: Executar Collection Postman
         run: |
-          newman run ServeRest.postman_collection.json \
+          newman run 2-ServeRest.postman_collection.json \
           -e Teste.postman_environment.json \
           -r cli,allure \
           --reporter-allure-export allure-results
