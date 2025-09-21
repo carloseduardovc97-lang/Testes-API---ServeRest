@@ -49,7 +49,12 @@ GitHub
 
  Pré-requisitos - Criar repositorio e integrar a pipeline, gerando relatórios dos testes
 
-- Já no ambiente GitHub
+- Já no ambiente GitHub, clique em criar repositório
+- Voce definira o nome, perfil privado ou publico do seu repositorio
+- Depois clicara em 'criar', pronto repositório criado.
+- Após isso, você criar um workflow, ambiente que rodará seus teste de forma automatizada
+- Clicara em áctions"
+  
   
 ⚙️ Executando os testes
 
