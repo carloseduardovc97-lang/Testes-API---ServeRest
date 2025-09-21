@@ -2363,11 +2363,14 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
@@ -2442,11 +2445,14 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
@@ -2522,11 +2528,14 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
@@ -2593,17 +2602,20 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
 										{
 											"key": "_id",
-											"value": ""
+											"value": "0uxuPY0cbmQhpEz1"
 										}
 									]
 								},
@@ -2657,17 +2669,20 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
 										{
 											"key": "_id",
-											"value": ""
+											"value": "0uxuPY0cbmQhpEz1"
 										}
 									]
 								},
@@ -2721,17 +2736,20 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
 										{
 											"key": "_id",
-											"value": ""
+											"value": "0uxuPY0cbmQhpEz1"
 										}
 									]
 								},
@@ -2785,17 +2803,20 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
 										{
 											"key": "_id",
-											"value": ""
+											"value": "0uxuPY0cbmQhpEz1"
 										}
 									]
 								},
@@ -2849,17 +2870,20 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
 										{
 											"key": "_id",
-											"value": ""
+											"value": "0uxuPY0cbmQhpEz1"
 										}
 									]
 								},
@@ -2913,17 +2937,20 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
 										{
 											"key": "_id",
-											"value": ""
+											"value": "0uxuPY0cbmQhpEz1"
 										}
 									]
 								},
@@ -2977,17 +3004,20 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
 										{
 											"key": "_id",
-											"value": ""
+											"value": "0uxuPY0cbmQhpEz1"
 										}
 									]
 								},
@@ -3041,17 +3071,20 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
 										{
 											"key": "_id",
-											"value": ""
+											"value": "0uxuPY0cbmQhpEz1"
 										}
 									]
 								},
@@ -3105,17 +3138,20 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
 										{
 											"key": "_id",
-											"value": ""
+											"value": "0uxuPY0cbmQhpEz1"
 										}
 									]
 								},
@@ -3169,17 +3205,20 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
 										{
 											"key": "_id",
-											"value": ""
+											"value": "0uxuPY0cbmQhpEz1"
 										}
 									]
 								},
@@ -3233,17 +3272,20 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
 										{
 											"key": "_id",
-											"value": ""
+											"value": "0uxuPY0cbmQhpEz1"
 										}
 									]
 								},
@@ -3297,17 +3339,20 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}usuarios/:_id",
+									"raw": "https://serverest.dev/usuarios/:_id",
+									"protocol": "https",
 									"host": [
-										"{{baseURL}}usuarios"
+										"serverest",
+										"dev"
 									],
 									"path": [
+										"usuarios",
 										":_id"
 									],
 									"variable": [
 										{
 											"key": "_id",
-											"value": ""
+											"value": "0uxuPY0cbmQhpEz1"
 										}
 									]
 								},
