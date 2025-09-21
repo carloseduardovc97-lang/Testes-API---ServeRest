@@ -1013,14 +1013,9 @@
 									}
 								},
 								"url": {
-									"raw": "https://serverest.dev/login",
-									"protocol": "https",
+									"raw": "{{baseURL}}login",
 									"host": [
-										"serverest",
-										"dev"
-									],
-									"path": [
-										"login"
+										"{{baseURL}}login"
 									]
 								},
 								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/login' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\"\n}'"
@@ -1076,14 +1071,9 @@
 									}
 								},
 								"url": {
-									"raw": "https://serverest.dev/login",
-									"protocol": "https",
+									"raw": "{{baseURL}}login",
 									"host": [
-										"serverest",
-										"dev"
-									],
-									"path": [
-										"login"
+										"{{baseURL}}login"
 									]
 								},
 								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/login' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\"\n}'"
@@ -1139,14 +1129,9 @@
 									}
 								},
 								"url": {
-									"raw": "https://serverest.dev/login",
-									"protocol": "https",
+									"raw": "{{baseURL}}login",
 									"host": [
-										"serverest",
-										"dev"
-									],
-									"path": [
-										"login"
+										"{{baseURL}}login"
 									]
 								},
 								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/login' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\"\n}'"
@@ -1218,14 +1203,9 @@
 									}
 								},
 								"url": {
-									"raw": "https://serverest.dev/login",
-									"protocol": "https",
+									"raw": "{{baseURL}}login",
 									"host": [
-										"serverest",
-										"dev"
-									],
-									"path": [
-										"login"
+										"{{baseURL}}login"
 									]
 								},
 								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/login' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\"\n}'"
@@ -1289,14 +1269,9 @@
 									}
 								},
 								"url": {
-									"raw": "https://serverest.dev/login",
-									"protocol": "https",
+									"raw": "{{baseURL}}login",
 									"host": [
-										"serverest",
-										"dev"
-									],
-									"path": [
-										"login"
+										"{{baseURL}}login"
 									]
 								},
 								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/login' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\"\n}'"
@@ -1354,14 +1329,9 @@
 									}
 								},
 								"url": {
-									"raw": "https://serverest.dev/login",
-									"protocol": "https",
+									"raw": "{{baseURL}}login",
 									"host": [
-										"serverest",
-										"dev"
-									],
-									"path": [
-										"login"
+										"{{baseURL}}login"
 									]
 								},
 								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/login' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\"\n}'"
@@ -1415,14 +1385,9 @@
 									}
 								},
 								"url": {
-									"raw": "https://serverest.dev/login",
-									"protocol": "https",
+									"raw": "{{baseURL}}login",
 									"host": [
-										"serverest",
-										"dev"
-									],
-									"path": [
-										"login"
+										"{{baseURL}}login"
 									]
 								},
 								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/login' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\"\n}'"
@@ -1478,14 +1443,9 @@
 									}
 								},
 								"url": {
-									"raw": "https://serverest.dev/login",
-									"protocol": "https",
+									"raw": "{{baseURL}}login",
 									"host": [
-										"serverest",
-										"dev"
-									],
-									"path": [
-										"login"
+										"{{baseURL}}login"
 									]
 								},
 								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/login' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\"\n}'"
@@ -1538,14 +1498,9 @@
 									}
 								},
 								"url": {
-									"raw": "https://serverest.dev/login",
-									"protocol": "https",
+									"raw": "{{baseURL}}login",
 									"host": [
-										"serverest",
-										"dev"
-									],
-									"path": [
-										"login"
+										"{{baseURL}}login"
 									]
 								},
 								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/login' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\"\n}'"
@@ -1599,14 +1554,9 @@
 									}
 								},
 								"url": {
-									"raw": "https://serverest.dev/login",
-									"protocol": "https",
+									"raw": "{{baseURL}}login",
 									"host": [
-										"serverest",
-										"dev"
-									],
-									"path": [
-										"login"
+										"{{baseURL}}login"
 									]
 								},
 								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/login' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\"\n}'"
@@ -1662,14 +1612,9 @@
 									}
 								},
 								"url": {
-									"raw": "https://serverest.dev/login",
-									"protocol": "https",
+									"raw": "{{baseURL}}login",
 									"host": [
-										"serverest",
-										"dev"
-									],
-									"path": [
-										"login"
+										"{{baseURL}}login"
 									]
 								},
 								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/login' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\"\n}'"
@@ -1753,12 +1698,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseURL}}/usuarios",
+									"raw": "{{baseURL}}usuarios",
 									"host": [
-										"{{baseURL}}"
-									],
-									"path": [
-										"usuarios"
+										"{{baseURL}}usuarios"
 									],
 									"query": [
 										{
@@ -1872,12 +1814,9 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseURL}}/usuarios?email={{email}}",
+									"raw": "{{baseURL}}usuarios",
 									"host": [
-										"{{baseURL}}"
-									],
-									"path": [
-										"usuarios"
+										"{{baseURL}}usuarios"
 									],
 									"query": [
 										{
@@ -1892,7 +1831,8 @@
 										},
 										{
 											"key": "email",
-											"value": "{{email}}"
+											"value": "{{email}}",
+											"disabled": true
 										},
 										{
 											"key": "password",
@@ -2031,12 +1971,11 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}/usuarios/:_id",
+									"raw": "{{baseURL}}usuarios/:_id",
 									"host": [
-										"{{baseURL}}"
+										"{{baseURL}}usuarios"
 									],
 									"path": [
-										"usuarios",
 										":_id"
 									],
 									"variable": [
@@ -2112,12 +2051,11 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}/usuarios/:_id",
+									"raw": "{{baseURL}}usuarios/:_id",
 									"host": [
-										"{{baseURL}}"
+										"{{baseURL}}usuarios"
 									],
 									"path": [
-										"usuarios",
 										":_id"
 									],
 									"variable": [
@@ -2189,12 +2127,11 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}/usuarios/:_id",
+									"raw": "{{baseURL}}usuarios/:_id",
 									"host": [
-										"{{baseURL}}"
+										"{{baseURL}}usuarios"
 									],
 									"path": [
-										"usuarios",
 										":_id"
 									],
 									"variable": [
@@ -2272,12 +2209,11 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}/usuarios/:_id",
+									"raw": "{{baseURL}}usuarios/:_id",
 									"host": [
-										"{{baseURL}}"
+										"{{baseURL}}usuarios"
 									],
 									"path": [
-										"usuarios",
 										":_id"
 									],
 									"variable": [
@@ -2352,12 +2288,11 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}/usuarios/:_id",
+									"raw": "{{baseURL}}usuarios/:_id",
 									"host": [
-										"{{baseURL}}"
+										"{{baseURL}}usuarios"
 									],
 									"path": [
-										"usuarios",
 										":_id"
 									],
 									"variable": [
@@ -2433,12 +2368,11 @@
 									}
 								},
 								"url": {
-									"raw": "{{baseURL}}/usuarios/:_id",
+									"raw": "{{baseURL}}usuarios/:_id",
 									"host": [
-										"{{baseURL}}"
+										"{{baseURL}}usuarios"
 									],
 									"path": [
-										"usuarios",
 										":_id"
 									],
 									"variable": [
@@ -2454,6 +2388,780 @@
 							"response": []
 						}
 					]
+				},
+				{
+					"name": "Cenários negativos Copy",
+					"item": [
+						{
+							"name": "CT036 - Nome vazio",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"// Salvando as informacoes do response body",
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Validar status code\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar texto do campo nome do response\", function () {",
+											"    pm.expect(jsonData.nome).to.eql(\"nome não pode ficar em branco\");",
+											"});",
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									},
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"nome\":\"\",\n  \"email\": \"{{$randomEmail}}\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": ""
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/usuarios' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"nome\": \"Carlos Viana\",\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}'"
+							},
+							"response": []
+						},
+						{
+							"name": "CT037 - Nome obrigatório",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"// Salvando as informacoes do response body",
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Validar status code\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar texto do campo nome do response\", function () {",
+											"    pm.expect(jsonData.nome).to.eql(\"nome é obrigatório\");",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									},
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n\n  \"email\": \"{{$randomEmail}}\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": ""
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/usuarios' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"nome\": \"Carlos Viana\",\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}'"
+							},
+							"response": []
+						},
+						{
+							"name": "CT038 - Email vazio",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"// Salvando as informacoes do response body",
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Validar status code\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar texto do campo email do response\", function () {",
+											"    pm.expect(jsonData.email).to.eql(\"email não pode ficar em branco\");",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									},
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"nome\": \"Carlos \",\n  \"email\": \"\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": ""
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/usuarios' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"nome\": \"Carlos Viana\",\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}'"
+							},
+							"response": []
+						},
+						{
+							"name": "CT039 - Email obrigatório",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"// Salvando as informacoes do response body",
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Validar status code\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar texto do campo email do response\", function () {",
+											"    pm.expect(jsonData.email).to.eql(\"email é obrigatório\");",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									},
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"nome\": \"Carlos \",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": ""
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/usuarios' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"nome\": \"Carlos Viana\",\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}'"
+							},
+							"response": []
+						},
+						{
+							"name": "CT040 - Password vazio",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"// Salvando as informacoes do response body",
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Validar status code\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar texto do campo password do response\", function () {",
+											"    pm.expect(jsonData.password).to.eql(\"password não pode ficar em branco\");",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									},
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"nome\": \"Carlos \",\n  \"email\": \"{{email}}\",\n  \"password\": \"\",\n  \"administrador\": \"true\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": ""
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/usuarios' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"nome\": \"Carlos Viana\",\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}'"
+							},
+							"response": []
+						},
+						{
+							"name": "CT041- Password obrigatório",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"// Salvando as informacoes do response body",
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Validar status code\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar texto do campo password do response\", function () {",
+											"    pm.expect(jsonData.password).to.eql(\"password é obrigatório\");",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									},
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"nome\": \"Carlos \",\n  \"email\": \"{{email}}\",\n  \"administrador\": \"true\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": ""
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/usuarios' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"nome\": \"Carlos Viana\",\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}'"
+							},
+							"response": []
+						},
+						{
+							"name": "CT042 - Administrador vazio",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"// Salvando as informacoes do response body",
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Validar status code\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar texto do campo administrador do response\", function () {",
+											"    pm.expect(jsonData.administrador).to.eql(\"administrador deve ser 'true' ou 'false'\");",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									},
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"nome\": \"Carlos \",\n  \"email\": \"{{email}}\",\n  \"password\": \"teste\",\n  \"administrador\": \"\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": ""
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/usuarios' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"nome\": \"Carlos Viana\",\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}'"
+							},
+							"response": []
+						},
+						{
+							"name": "CT043 - Administrador obrigatório",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"// Salvando as informacoes do response body",
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Validar status code\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar texto do campo administrador do response\", function () {",
+											"    pm.expect(jsonData.administrador).to.eql(\"administrador é obrigatório\");",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									},
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"nome\": \"Carlos\",\n  \"email\": \"{{email}}\",\n  \"password\": \"teste\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": ""
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/usuarios' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"nome\": \"Carlos Viana\",\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}'"
+							},
+							"response": []
+						},
+						{
+							"name": "CT044 - Nome value inválido",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"// Salvando as informacoes do response body",
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Validar status code\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar texto do campo nome do response\", function () {",
+											"    pm.expect(jsonData.nome).to.eql(\"nome deve ser uma string\");",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									},
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"nome\":12,\n  \"email\": \"{{email}}\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": ""
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/usuarios' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"nome\": \"Carlos Viana\",\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}'"
+							},
+							"response": []
+						},
+						{
+							"name": "CT045 - Email value inválido",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"// Salvando as informacoes do response body",
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Validar status code\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar texto do campo email do response\", function () {",
+											"    pm.expect(jsonData.email).to.eql(\"email deve ser uma string\");",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									},
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"nome\": \"Carlos \",\n  \"email\": 123,\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": ""
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/usuarios' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"nome\": \"Carlos Viana\",\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}'"
+							},
+							"response": []
+						},
+						{
+							"name": "CT046 - Password value inválido",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"// Salvando as informacoes do response body",
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Validar status code\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar texto do campo password do response\", function () {",
+											"    pm.expect(jsonData.password).to.eql(\"password deve ser uma string\");",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									},
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"nome\": \"Carlos \",\n  \"email\": \"{{email}}\",\n  \"password\": 123,\n  \"administrador\": \"true\"\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": ""
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/usuarios' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"nome\": \"Carlos Viana\",\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}'"
+							},
+							"response": []
+						},
+						{
+							"name": "CT047 - Administrador value invalido",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"// Salvando as informacoes do response body",
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Validar status code\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar texto do campo administrador do response\", function () {",
+											"    pm.expect(jsonData.administrador).to.eql(\"administrador deve ser 'true' ou 'false'\");",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "PUT",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									},
+									{
+										"key": "Content-Type",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n  \"nome\": \"Carlos \",\n  \"email\": \"{{email}}\",\n  \"password\": \"teste\",\n  \"administrador\": 123\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": ""
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'POST' \\\n  'https://serverest.dev/usuarios' \\\n  -H 'accept: application/json' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"nome\": \"Carlos Viana\",\n  \"email\": \"carlosviana@uorak.com\",\n  \"password\": \"teste\",\n  \"administrador\": \"true\"\n}'"
+							},
+							"response": []
+						}
+					]
 				}
 			]
 		},
@@ -2462,102 +3170,241 @@
 			"item": [
 				{
 					"name": "Cenário esperado",
-					"item": []
+					"item": [
+						{
+							"name": "CT048 - Buscar usuário por ID",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"let jsonData = pm.response.json();",
+											"",
+											"pm.test(\"Status code is 200\", function () {",
+											"    pm.response.to.have.status(200);",
+											"});",
+											"pm.test(\"Validar retorno do campo quantidade\", function () {",
+											"    pm.expect(jsonData.quantidade).to.be.a(\"number\")",
+											"",
+											"})",
+											"pm.test(\"Validar retorno da chave nome\", function () {",
+											"    jsonData.usuarios.forEach(users => {",
+											"        pm.expect(users).to.have.property(\"nome\");",
+											"        pm.expect(users.nome).to.not.be.null;",
+											"        pm.expect(users.nome).to.not.eql(\"\");",
+											"    })",
+											"});",
+											"",
+											"pm.test(\"Validar retorno da chave email\", function () {",
+											"    jsonData.usuarios.forEach(users => {",
+											"        pm.expect(users).to.have.property(\"email\");",
+											"        pm.expect(users.email).to.not.be.null;",
+											"        pm.expect(users.email).to.not.eql(\"\");",
+											"    })",
+											"});",
+											"",
+											"pm.test(\"Validar retorno da chave password\", function () {",
+											"    jsonData.usuarios.forEach(users => {",
+											"        pm.expect(users).to.have.property(\"password\");",
+											"        pm.expect(users.password).to.not.be.null;",
+											"        pm.expect(users.password).to.not.eql(\"\");",
+											"    })",
+											"});",
+											"",
+											"pm.test(\"Validar retorno da chave administrador\", function () {",
+											"    jsonData.usuarios.forEach(users => {",
+											"        pm.expect(users).to.have.property(\"administrador\");",
+											"        pm.expect(users.administrador).to.not.be.null;",
+											"        pm.expect(users.administrador).to.be.a(\"string\");",
+											"    })",
+											"",
+											"    pm.test(\"Validar retorno da chave _id\", function () {",
+											"        jsonData.usuarios.forEach(users => {",
+											"            pm.expect(users).to.have.property(\"_id\");",
+											"            pm.expect(users._id).to.not.be.null;",
+											"            pm.expect(users._id).to.not.eql(\"\");",
+											"        })",
+											"    })",
+											"})"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									}
+								],
+								"url": {
+									"raw": "{{baseURL}}usuarios/?_id={{_id}}",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										""
+									],
+									"query": [
+										{
+											"key": "_id",
+											"value": "{{_id}}"
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'GET' \\\n  'https://serverest.dev/usuarios/eRvd1XVqoA4T4kQW' \\\n  -H 'accept: application/json'"
+							},
+							"response": []
+						}
+					]
 				},
 				{
 					"name": "Schema",
-					"item": []
-				},
-				{
-					"name": "CT048 - Buscar usuário por ID",
-					"event": [
+					"item": [
 						{
-							"listen": "test",
-							"script": {
-								"exec": [
-									"let jsonData = pm.response.json();",
-									"",
-									"pm.test(\"Status code is 200\", function () {",
-									"    pm.response.to.have.status(200);",
-									"});",
-									"pm.test(\"Validar retorno do campo quantidade\", function () {",
-									"    pm.expect(jsonData.quantidade).to.be.a(\"number\")",
-									"",
-									"})",
-									"pm.test(\"Validar retorno da chave nome\", function () {",
-									"    jsonData.usuarios.forEach(users => {",
-									"        pm.expect(users).to.have.property(\"nome\");",
-									"        pm.expect(users.nome).to.not.be.null;",
-									"        pm.expect(users.nome).to.not.eql(\"\");",
-									"    })",
-									"});",
-									"",
-									"pm.test(\"Validar retorno da chave email\", function () {",
-									"    jsonData.usuarios.forEach(users => {",
-									"        pm.expect(users).to.have.property(\"email\");",
-									"        pm.expect(users.email).to.not.be.null;",
-									"        pm.expect(users.email).to.not.eql(\"\");",
-									"    })",
-									"});",
-									"",
-									"pm.test(\"Validar retorno da chave password\", function () {",
-									"    jsonData.usuarios.forEach(users => {",
-									"        pm.expect(users).to.have.property(\"password\");",
-									"        pm.expect(users.password).to.not.be.null;",
-									"        pm.expect(users.password).to.not.eql(\"\");",
-									"    })",
-									"});",
-									"",
-									"pm.test(\"Validar retorno da chave administrador\", function () {",
-									"    jsonData.usuarios.forEach(users => {",
-									"        pm.expect(users).to.have.property(\"administrador\");",
-									"        pm.expect(users.administrador).to.not.be.null;",
-									"        pm.expect(users.administrador).to.be.a(\"string\");",
-									"    })",
-									"",
-									"    pm.test(\"Validar retorno da chave _id\", function () {",
-									"        jsonData.usuarios.forEach(users => {",
-									"            pm.expect(users).to.have.property(\"_id\");",
-									"            pm.expect(users._id).to.not.be.null;",
-									"            pm.expect(users._id).to.not.eql(\"\");",
-									"        })",
-									"    })",
-									"})"
-								],
-								"type": "text/javascript",
-								"packages": {}
-							}
-						}
-					],
-					"request": {
-						"method": "GET",
-						"header": [
-							{
-								"key": "accept",
-								"value": "application/json"
-							}
-						],
-						"url": {
-							"raw": "https://serverest.dev/usuarios/?_id={{_id}}",
-							"protocol": "https",
-							"host": [
-								"serverest",
-								"dev"
-							],
-							"path": [
-								"usuarios",
-								""
-							],
-							"query": [
+							"name": "CT049 - SchemaSucesso",
+							"event": [
 								{
-									"key": "_id",
-									"value": "{{_id}}"
+									"listen": "test",
+									"script": {
+										"exec": [
+											"let jsonData = pm.response.json();",
+											"",
+											"const schemaSucesso = {",
+											"    \"type\": \"object\",",
+											"    \"properties\": {",
+											"        \"nome\": {",
+											"            \"type\": \"string\"",
+											"        },",
+											"        \"email\": {",
+											"            \"type\": \"string\"",
+											"        },",
+											"        \"password\": {",
+											"            \"type\": \"string\"",
+											"        },",
+											"        \"administrador\": {",
+											"            \"type\": \"string\"",
+											"        },",
+											"        \"_id\": {",
+											"            \"type\": \"string\"",
+											"        }",
+											"    },",
+											"    \"required\": [",
+											"        \"nome\",",
+											"        \"email\",",
+											"        \"password\",",
+											"        \"administrador\",",
+											"        \"_id\"",
+											"    ]",
+											"}",
+											"",
+											"//A documentação do ServerRest está desatualizada. De acordo com o contrato, o schema correto é o apresentado no teste; entretanto, o response retornado difere do contrato, resultando na falha do teste(CT001 - Validar schema de sucesso).",
+											"pm.test(\"CT001 - Validar schema de sucesso\", function () {",
+											"    pm.expect(jsonData).to.have.jsonSchema(schemaSucesso)",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar status code 200\", function () {",
+											"    pm.response.to.have.status(200);",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
 								}
-							]
+							],
+							"request": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									}
+								],
+								"url": {
+									"raw": "{{baseURL}}usuarios/?_id={{_id}}",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										""
+									],
+									"query": [
+										{
+											"key": "_id",
+											"value": "{{_id}}"
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'GET' \\\n  'https://serverest.dev/usuarios/eRvd1XVqoA4T4kQW' \\\n  -H 'accept: application/json'"
+							},
+							"response": []
 						},
-						"description": "Generated from cURL: curl -X 'GET' \\\n  'https://serverest.dev/usuarios/eRvd1XVqoA4T4kQW' \\\n  -H 'accept: application/json'"
-					},
-					"response": []
+						{
+							"name": "CT050 - SchemaSucesso Copy",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"let jsonData = pm.response.json();",
+											"",
+											"const schemaNaoEncontrado = {",
+											"    \"type\": \"object\",",
+											"    \"properties\": {",
+											"        \"message\": {",
+											"            \"type\": \"string\"",
+											"        }",
+											"    },",
+											"    \"required\": [",
+											"        \"message\"",
+											"    ]",
+											"}",
+											"// A documentação da API difere do response obtido na chamada. Ao consultar um ID inexistente na base, o response retorna status code 200 e dois campos(quantidade e usuarios). No entanto, de acordo com o contrato, o esperado seria status code 400 e a mensagem 'usuário não encontrado'.",
+											"pm.test(\"CT001 - Validar schema de usuário não encontrado\", function () {",
+											"    pm.expect(jsonData).to.have.jsonSchema(schemaNaoEncontrado)",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar status code 400\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "GET",
+								"header": [
+									{
+										"key": "accept",
+										"value": "application/json"
+									}
+								],
+								"url": {
+									"raw": "{{baseURL}}/usuarios/?_id=cKPDtf3QdAF7bl0l",
+									"host": [
+										"{{baseURL}}"
+									],
+									"path": [
+										"usuarios",
+										""
+									],
+									"query": [
+										{
+											"key": "_id",
+											"value": "cKPDtf3QdAF7bl0l"
+										}
+									]
+								},
+								"description": "Generated from cURL: curl -X 'GET' \\\n  'https://serverest.dev/usuarios/eRvd1XVqoA4T4kQW' \\\n  -H 'accept: application/json'"
+							},
+							"response": []
+						}
+					]
 				}
 			]
 		},
@@ -2566,73 +3413,383 @@
 			"item": [
 				{
 					"name": "Cenários esperados",
-					"item": []
+					"item": [
+						{
+							"name": "CT051 - Excluir usuário com sucesso",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Excluir com sucesso\", function () {",
+											"    pm.response.to.have.status(200);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar campo message do response\", function () {",
+											"    pm.expect(jsonData.message).to.eql(\"Registro excluído com sucesso\");",
+											"});",
+											"",
+											"pm.test(\"CT003 - Validar campo  preenchido\", function () {",
+											"    pm.expect(jsonData.message).to.not.be.empty;",
+											"});",
+											"",
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "DELETE",
+								"header": [
+									{
+										"key": "Accept",
+										"value": "application/json"
+									}
+								],
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": "{{_id}}",
+											"description": "(Required) ID do usuário"
+										}
+									]
+								},
+								"description": "Não é permitido excluir usuário com carrinho."
+							},
+							"response": []
+						},
+						{
+							"name": "CT052 - Excluir usuário sem registro",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Excluir usuário sem registro\", function () {",
+											"    pm.response.to.have.status(200);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar campo message do response\", function () {",
+											"    pm.expect(jsonData.message).to.eql(\"Nenhum registro excluído\");",
+											"});",
+											"",
+											"pm.test(\"CT003 - Validar campo  preenchido\", function () {",
+											"    pm.expect(jsonData.message).to.not.be.empty;",
+											"});",
+											"",
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "DELETE",
+								"header": [
+									{
+										"key": "Accept",
+										"value": "application/json"
+									}
+								],
+								"url": {
+									"raw": "{{baseURL}}/usuarios/:_id",
+									"host": [
+										"{{baseURL}}"
+									],
+									"path": [
+										"usuarios",
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": "{{_id}}",
+											"description": "(Required) ID do usuário"
+										}
+									]
+								},
+								"description": "Não é permitido excluir usuário com carrinho."
+							},
+							"response": []
+						},
+						{
+							"name": "CT053 - Excluir usuário com carrinho cadastrado",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Excluir usuário com carrinho cadastrado\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar campo message do response\", function () {",
+											"    pm.expect(jsonData.message).to.eql(\"Não é permitido excluir usuário com carrinho cadastrado\");",
+											"});",
+											"",
+											"pm.test(\"CT003 - Validar campo message preenchido\", function () {",
+											"    pm.expect(jsonData.message).to.not.be.empty;",
+											"});",
+											"",
+											"pm.test(\"CT004 - Validar campo idCarrinho preenchido\", function () {",
+											"    pm.expect(jsonData.idCarrinho).to.not.be.empty;",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "DELETE",
+								"header": [
+									{
+										"key": "Accept",
+										"value": "application/json"
+									}
+								],
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": "zt3hdNdaM4xcOyxT",
+											"description": "Usuário com carrinho cadastrado"
+										}
+									]
+								},
+								"description": "Não é permitido excluir usuário com carrinho."
+							},
+							"response": []
+						}
+					]
 				},
 				{
 					"name": "Schema",
-					"item": []
+					"item": [
+						{
+							"name": "CT054 - Schema Registro excluido com sucesso",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"let jsonData = pm.response.json();",
+											"",
+											"const schemaExcluirSucesso = {",
+											"  \"type\": \"object\",",
+											"  \"properties\": {",
+											"    \"message\": {",
+											"      \"type\": \"string\"",
+											"    }",
+											"  },",
+											"  \"required\": [",
+											"    \"message\"",
+											"  ]",
+											"}",
+											"",
+											"pm.test(\"CT001 - Validar Schema de sucesso\", function () {",
+											"    pm.expect(jsonData).to.have.jsonSchema(schemaExcluirSucesso)",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar status code 200\", function () {",
+											"    pm.response.to.have.status(200);",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "DELETE",
+								"header": [
+									{
+										"key": "Accept",
+										"value": "application/json"
+									}
+								],
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": "{{_id}}",
+											"description": "(Required) ID do usuário"
+										}
+									]
+								},
+								"description": "Não é permitido excluir usuário com carrinho."
+							},
+							"response": []
+						},
+						{
+							"name": "CT055 - Schema Usuário com carrinho cadastrado",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"let jsonData = pm.response.json();",
+											"",
+											"const schemaExcluirSucesso = {",
+											"",
+											"  \"type\": \"object\",",
+											"  \"properties\": {",
+											"    \"message\": {",
+											"      \"type\": \"string\"",
+											"    },",
+											"    \"idCarrinho\": {",
+											"      \"type\": \"string\"",
+											"    }",
+											"  },",
+											"  \"required\": [",
+											"    \"message\",",
+											"    \"idCarrinho\"",
+											"  ]",
+											"}",
+											"pm.test(\"CT001 - Validar Schema de sucesso\", function () {",
+											"    pm.expect(jsonData).to.have.jsonSchema(schemaExcluirSucesso)",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar status code 400\", function () {",
+											"    pm.response.to.have.status(400);",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
+							"request": {
+								"method": "DELETE",
+								"header": [
+									{
+										"key": "Accept",
+										"value": "application/json"
+									},
+									{
+										"key": "",
+										"value": "",
+										"type": "text",
+										"disabled": true
+									}
+								],
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": "zt3hdNdaM4xcOyxT",
+											"description": "(Required) ID do usuário"
+										}
+									]
+								},
+								"description": "Não é permitido excluir usuário com carrinho."
+							},
+							"response": []
+						}
+					]
 				},
 				{
 					"name": "Cenários negativos",
-					"item": []
-				},
-				{
-					"name": "CT051 - Excluir usuário com sucesso",
-					"event": [
+					"item": [
 						{
-							"listen": "test",
-							"script": {
-								"exec": [
-									"let jsonData = pm.response.json();",
-									"",
-									"// Validacao cenario de testes - response body",
-									"pm.test(\"CT001 - Excluir com sucesso\", function () {",
-									"    pm.response.to.have.status(200);",
-									"});",
-									"",
-									"pm.test(\"CT002 - Validar campo message do response\", function () {",
-									"    pm.expect(jsonData.message).to.eql(\"Registro excluído com sucesso\");",
-									"});",
-									"",
-									"pm.test(\"CT003 - Validar campo  preenchido\", function () {",
-									"    pm.expect(jsonData.message).to.not.be.empty;",
-									"});",
-									"",
-									""
-								],
-								"type": "text/javascript",
-								"packages": {}
-							}
-						}
-					],
-					"request": {
-						"method": "DELETE",
-						"header": [
-							{
-								"key": "Accept",
-								"value": "application/json"
-							}
-						],
-						"url": {
-							"raw": "{{baseURL}}/usuarios/:_id",
-							"host": [
-								"{{baseURL}}"
-							],
-							"path": [
-								"usuarios",
-								":_id"
-							],
-							"variable": [
+							"name": "CT056 - Excluir usuário com value id inválido",
+							"event": [
 								{
-									"key": "_id",
-									"value": "{{_id}}",
-									"description": "(Required) ID do usuário"
+									"listen": "test",
+									"script": {
+										"exec": [
+											"let jsonData = pm.response.json();",
+											"",
+											"// Validacao cenario de testes - response body",
+											"pm.test(\"CT001 - Excluir com sucesso 405\", function () {",
+											"    pm.response.to.have.status(405);",
+											"});",
+											"",
+											"pm.test(\"CT002 - Validar campo message do response\", function () {",
+											"    pm.expect(jsonData.message).to.eql(\"Não é possível realizar DELETE em /usuarios/????. Acesse https://serverest.dev para ver as rotas disponíveis e como utilizá-las.\");",
+											"});",
+											"",
+											"pm.test(\"CT003 - Validar campo  preenchido\", function () {",
+											"    pm.expect(jsonData.message).to.not.be.empty;",
+											"});",
+											"",
+											""
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
 								}
-							]
-						},
-						"description": "Não é permitido excluir usuário com carrinho."
-					},
-					"response": []
+							],
+							"request": {
+								"method": "DELETE",
+								"header": [
+									{
+										"key": "Accept",
+										"value": "application/json"
+									}
+								],
+								"url": {
+									"raw": "{{baseURL}}usuarios/:_id",
+									"host": [
+										"{{baseURL}}usuarios"
+									],
+									"path": [
+										":_id"
+									],
+									"variable": [
+										{
+											"key": "_id",
+											"value": "???",
+											"description": "(Required) ID do usuário"
+										}
+									]
+								},
+								"description": "Não é permitido excluir usuário com carrinho."
+							},
+							"response": []
+						}
+					]
 				}
 			]
 		}
