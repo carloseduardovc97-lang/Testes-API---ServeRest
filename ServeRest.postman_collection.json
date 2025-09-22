@@ -3768,7 +3768,8 @@
 											"});"
 										],
 										"type": "text/javascript",
-										"packages": {}
+										"packages": {},
+										"requests": {}
 									}
 								}
 							],
@@ -3794,7 +3795,7 @@
 									"variable": [
 										{
 											"key": "_id",
-											"value": "zt3hdNdaM4xcOyxT",
+											"value": "LIKc9FwYVo0lZ10p",
 											"description": "Usuário com carrinho cadastrado"
 										}
 									]
@@ -3907,7 +3908,8 @@
 											"});"
 										],
 										"type": "text/javascript",
-										"packages": {}
+										"packages": {},
+										"requests": {}
 									}
 								}
 							],
@@ -3939,7 +3941,7 @@
 									"variable": [
 										{
 											"key": "_id",
-											"value": "zt3hdNdaM4xcOyxT",
+											"value": "LIKc9FwYVo0lZ10p",
 											"description": "(Required) ID do usuário"
 										}
 									]
